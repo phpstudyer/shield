@@ -1,4 +1,4 @@
-module shield
+module github.com/phpstudyer/shield
 
 go 1.20
 
